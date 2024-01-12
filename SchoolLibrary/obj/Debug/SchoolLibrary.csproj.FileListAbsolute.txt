@@ -1,0 +1,6 @@
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\Projects\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.dll
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\Projects\SchoolLibrary\SchoolLibrary\bin\Debug\SchoolLibrary.pdb
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\Projects\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\Projects\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\Projects\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.dll
+C:\Users\anjal\OneDrive\Desktop\Mphasis(.net)\Phase4\Projects\SchoolLibrary\SchoolLibrary\obj\Debug\SchoolLibrary.pdb
